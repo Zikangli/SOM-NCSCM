@@ -4,7 +4,7 @@ Chinese Sentence Compression Dataset and the neural Chinese SC model. (EMNLP2021
 PDF: https://aclanthology.org/2021.emnlp-main.33/
 
 ## Chinese Sentence Compression Dataset
-This is a Chinese parallel SC dataset in the telecommunication domain. 
+In the folder: Chinese SC dataset, there is a Chinese parallel SC dataset in the telecommunication domain. 
 
 Several personal privacy information and domain-relative sensitive information were masked by using special tokens. (More details can be found in our paper:))
 
