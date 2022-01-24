@@ -8,8 +8,6 @@ In the folder: ./Chinese SC dataset, there is a Chinese parallel SC dataset in t
 
 Several personal privacy information and domain-relative sensitive information were masked by using special tokens. (More details can be found in our paper:))
 
-We will make our manually annotated Chinese SC data public soon.
-
 And we will continue improving and expanding the Chinese SC dataset.
 
 ## The SOM-NCSCM.
