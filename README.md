@@ -13,4 +13,4 @@ And we will continue improving and expanding the Chinese SC dataset.
 ## The SOM-NCSCM.
 This is a neural Chinese SC model enhanced with a Self-Origanizing Map (SOM).
 
-We will provide A BASIC PRELIMINARY VERSION of codes soon.
+We will provide A BASIC PRELIMINARY VERSION of codes soon. (Well, it's not difficult to build this model:) If any problem, just email us or open an issue.)
